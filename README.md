@@ -1,4 +1,4 @@
-### Hi https://media.giphy.com/media/DIgT73ICZOOZqNCNs7/giphy.gif?cid=790b7611ha3tqh3bbo281i65acswvpntrvs0cxeify8b8opq&ep=v1_gifs_search&rid=giphy.gif&ct=g 👋
+### Hi <img src="https://media.giphy.com/media/DIgT73ICZOOZqNCNs7/giphy.gif?cid=790b7611ha3tqh3bbo281i65acswvpntrvs0cxeify8b8opq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="30px" /> 👋
 
 <!--
 **Kozimjon-Malikov/Kozimjon-Malikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
