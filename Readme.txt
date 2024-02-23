@@ -1,4 +1,4 @@
-### Hello, my name is Kozimjon. 👋
+Hello, my name is Kozimjon. 👋
 I have been developing websites since 2021.
 
 📘Stack:
