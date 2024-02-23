@@ -1,13 +1,7 @@
 ### Hello, my name is Kozimjon. 👋
 I have been developing websites since 2021.
 Stack:
-<code>
-                    ✅ HTML5, CSS3, SASS,Bootstrap,Materialize UI, Tailwind css, Ant design,
-                    ✅ JavaScript, jQuery, React js, Laravel,Laravel starter kits,
-                    ✅ MySql,MongoDB,
-                    ✅ Git,Github
-                    ✅ PhotoShop, Figma
-                </code>
+<img src="https://w7.pngwing.com/pngs/840/443/png-transparent-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-orange.png" alt="icon" width="30px">
 
 <!--
 **Kozimjon-Malikov/Kozimjon-Malikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
