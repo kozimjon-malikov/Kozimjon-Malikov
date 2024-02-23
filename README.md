@@ -1,13 +1,13 @@
 ### Hello, my name is Kozimjon. 👋
 I have been developing websites since 2021.
-Stack:<hr>
-      <code>
+Stack:
+<code>
                     ✅ HTML5, CSS3, SASS,Bootstrap,Materialize UI, Tailwind css, Ant design,
                     ✅ JavaScript, jQuery, React js, Laravel,Laravel starter kits,
                     ✅ MySql,MongoDB,
                     ✅ Git,Github
                     ✅ PhotoShop, Figma
-      </code>
+                </code>
 
 <!--
 **Kozimjon-Malikov/Kozimjon-Malikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
