@@ -1,6 +1,6 @@
 ### Hello, my name is Kozimjon. 👋
 I have been developing websites since 2021.
-Stack:
+Stack:<hr>
       <code>
                     ✅ HTML5, CSS3, SASS,Bootstrap,Materialize UI, Tailwind css, Ant design,
                     ✅ JavaScript, jQuery, React js, Laravel,Laravel starter kits,
