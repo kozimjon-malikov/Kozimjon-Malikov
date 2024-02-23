@@ -1,7 +1,7 @@
 ### Hello, my name is Kozimjon. 👋
 I have been developing websites since 2021.
 Stack:
-<img src="[https://w7.pngwing.com/pngs/840/443/png-transparent-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-orange.png](https://w7.pngwing.com/pngs/147/317/png-transparent-html-computer-icons-web-development-bootstrap-world-wide-web-text-trademark-orange.png)" alt="icon" width="30px">
+               <img src="https://w7.pngwing.com/pngs/147/317/png-transparent-html-computer-icons-web-development-bootstrap-world-wide-web-text-trademark-orange.png" alt="icon" width="30px">
 
 <!--
 **Kozimjon-Malikov/Kozimjon-Malikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
