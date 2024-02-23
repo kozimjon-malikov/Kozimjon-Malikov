@@ -1,4 +1,11 @@
-### Hi <img src="https://media.giphy.com/media/DIgT73ICZOOZqNCNs7/giphy.gif?cid=790b7611ha3tqh3bbo281i65acswvpntrvs0cxeify8b8opq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="30px" /> 👋
+### Hello, my name is Kozimjon. 👋
+I have been developing websites since 2021.
+Stack:
+ ✅ HTML5, CSS3, SASS,Bootstrap,Materialize UI, Tailwind css, Ant design,
+ ✅ JavaScript, jQuery, React js, Laravel,Laravel starter kits,
+ ✅ MySql,MongoDB,
+ ✅ Git,Github
+ ✅ PhotoShop, Figma
 
 <!--
 **Kozimjon-Malikov/Kozimjon-Malikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
