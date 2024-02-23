@@ -8,4 +8,5 @@ I have been developing websites since 2021.
       ✅ GIT/GITHUB <br>
       ✅ PHOTOSHOP/FIGMA
 
- 📨&nbsp; How to reach me: kozimjonmalikov.dev@gmail.com
+### mail
+📨&nbsp; How to reach me: kozimjonmalikov.dev@gmail.com
